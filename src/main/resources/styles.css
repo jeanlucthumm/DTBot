@@ -1,0 +1,12 @@
+.root {
+    -fx-background-color: #ffffff;
+}
+
+#leftPane {
+    -fx-background-color: #ffffff;
+}
+
+.list-cell {
+    /*noinspection CssInvalidPropertyValue*/
+    -fx-font-family: Consolas;
+}
